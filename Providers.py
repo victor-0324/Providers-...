@@ -1,13 +1,17 @@
+# importando a biblioteca pandas 
 import pandas as pd 
 
+# Criando a classe 
 class providers():
-
+    # Função inicial
     def iniciar(self):
         print('\n>>>>>>Bem vindo<<<<<<\n')
 
         print('Olá, nos da empresa providers, estamos fazendo uma pesquisa\npara saber como esta nosso serviço de  internet na sua casa\nIremos fazer uma pesquisa para melhorar nosso sistema e nossos serviços.\n') 
-
+        
+       # Estrutura de repitição 
         while True:
+           # Tratamentos de erros digitados pelos clientes
             try:
 
                 self.nome = str(input('Nome: '.strip()))
@@ -41,7 +45,7 @@ class providers():
                             else:
                                 print(f'o cliente esta satisfeito a nota foi >> {self.terceiro} << ') 
                             break
-
+                            # Aqui gera o arquivo .txt, com as informaçoes passadas pelos clientes
                             '''self.recebido = ['nome', self.a, 'bairro', self.b, 'Nota', self.terceiro,]
                             with open('recebido.txt','w')as arquivo:
                                 for self.lista in self.recebido:
@@ -65,8 +69,8 @@ class providers():
 
                             else:
                                 print(f'o cliente esta satisfeito a nota foi >> {self.terceiro} << ') 
-                            break
-
+                            break                            
+                               # Aqui gera o arquivo .txt, com as informaçoes passadas pelos clientes 
                             '''self.recebido = ['nome', self.a, 'bairro', self.b, 'Nota', self.terceiro,]
                             with open('recebido.txt','w')as arquivo:
                                 for self.lista in self.recebido:
