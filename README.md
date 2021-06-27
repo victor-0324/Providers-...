@@ -1,5 +1,5 @@
 # Providers-...
 Uma possivel consulta ao cliente ...
 
-<img  src="https://lh3.googleusercontent.com/proxy/e0hVgEDO-JBPkgMC7t9taM14gN8gaCzwMOrpJIY9UXUI_Vmf6xFWmcUj9IHkNijCeylg3Iptp3RCNrzeYBK6fmsFNa7rMi_oUQZea9skePkI" alt="image" />
+<img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3PAL3aujz6WVjHH5FJoYD7KqYoglhe4gy4g&usqp=CAU" alt="image"/>
 
